@@ -1,0 +1,2 @@
+# VSGitEmpty
+Example For VisualStudio
